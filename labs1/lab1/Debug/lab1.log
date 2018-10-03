@@ -1,0 +1,12 @@
+﻿  lab1.cpp
+c:\users\teeja\dropbox\prog\cpp\labs1\lab1\lab1.cpp(73): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\teeja\dropbox\prog\cpp\labs1\lab1\lab1.cpp(107): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+c:\users\teeja\dropbox\prog\cpp\labs1\lab1\lab1.cpp(107): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\teeja\dropbox\prog\cpp\labs1\lab1\lab1.cpp(109): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\teeja\dropbox\prog\cpp\labs1\lab1\lab1.cpp(109): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\teeja\dropbox\prog\cpp\labs1\lab1\lab1.cpp(109): warning C4244: '=': conversion from 'short' to 'char', possible loss of data
+c:\users\teeja\dropbox\prog\cpp\labs1\lab1\lab1.cpp(130): warning C4309: 'initializing': truncation of constant value
+c:\users\teeja\dropbox\prog\cpp\labs1\lab1\lab1.cpp(284): warning C4305: '=': truncation from 'int' to 'bool'
+c:\users\teeja\dropbox\prog\cpp\labs1\lab1\lab1.cpp(411): warning C4018: '<=': signed/unsigned mismatch
+  lab1.vcxproj -> C:\Users\teeja\Dropbox\prog\cpp\labs1\Debug\lab1.exe
+  lab1.vcxproj -> C:\Users\teeja\Dropbox\prog\cpp\labs1\Debug\lab1.pdb (Full PDB)
