@@ -1,0 +1,40 @@
+﻿  main.cpp
+c:\users\teeja\dropbox\prog\cpp\labs2\lab1\main.cpp(73): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\teeja\dropbox\prog\cpp\labs2\lab1\main.cpp(78): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\teeja\dropbox\prog\cpp\labs2\lab1\main.cpp(78): error C2065: 'nop': undeclared identifier
+c:\users\teeja\dropbox\prog\cpp\labs2\lab1\main.cpp(82): error C2144: syntax error: 'wchar_t' should be preceded by ';'
+c:\users\teeja\dropbox\prog\cpp\labs2\lab1\main.cpp(85): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\teeja\dropbox\prog\cpp\labs2\lab1\main.cpp(85): error C2065: 'nop': undeclared identifier
+c:\users\teeja\dropbox\prog\cpp\labs2\lab1\main.cpp(93): error C2146: syntax error: missing ';' before identifier 'iInt'
+c:\users\teeja\dropbox\prog\cpp\labs2\lab1\main.cpp(107): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+c:\users\teeja\dropbox\prog\cpp\labs2\lab1\main.cpp(107): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\teeja\dropbox\prog\cpp\labs2\lab1\main.cpp(109): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\teeja\dropbox\prog\cpp\labs2\lab1\main.cpp(109): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\teeja\dropbox\prog\cpp\labs2\lab1\main.cpp(109): warning C4244: '=': conversion from 'short' to 'char', possible loss of data
+c:\users\teeja\dropbox\prog\cpp\labs2\lab1\main.cpp(130): warning C4309: 'initializing': truncation of constant value
+c:\users\teeja\dropbox\prog\cpp\labs2\lab1\main.cpp(135): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\teeja\dropbox\prog\cpp\labs2\lab1\main.cpp(135): error C2065: 'nop': undeclared identifier
+c:\users\teeja\dropbox\prog\cpp\labs2\lab1\main.cpp(142): error C2144: syntax error: 'int' should be preceded by ';'
+c:\users\teeja\dropbox\prog\cpp\labs2\lab1\main.cpp(152): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\teeja\dropbox\prog\cpp\labs2\lab1\main.cpp(152): error C2065: 'nop': undeclared identifier
+c:\users\teeja\dropbox\prog\cpp\labs2\lab1\main.cpp(171): error C2146: syntax error: missing ';' before identifier 'nTwin'
+c:\users\teeja\dropbox\prog\cpp\labs2\lab1\main.cpp(214): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\teeja\dropbox\prog\cpp\labs2\lab1\main.cpp(214): error C2065: 'nop': undeclared identifier
+c:\users\teeja\dropbox\prog\cpp\labs2\lab1\main.cpp(216): error C2143: syntax error: missing ';' before '}'
+c:\users\teeja\dropbox\prog\cpp\labs2\lab1\main.cpp(227): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\teeja\dropbox\prog\cpp\labs2\lab1\main.cpp(227): error C2065: 'nop': undeclared identifier
+c:\users\teeja\dropbox\prog\cpp\labs2\lab1\main.cpp(229): error C2143: syntax error: missing ';' before '}'
+c:\users\teeja\dropbox\prog\cpp\labs2\lab1\main.cpp(271): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\teeja\dropbox\prog\cpp\labs2\lab1\main.cpp(271): error C2065: 'nop': undeclared identifier
+c:\users\teeja\dropbox\prog\cpp\labs2\lab1\main.cpp(279): error C2144: syntax error: 'int' should be preceded by ';'
+c:\users\teeja\dropbox\prog\cpp\labs2\lab1\main.cpp(284): warning C4305: '=': truncation from 'int' to 'bool'
+c:\users\teeja\dropbox\prog\cpp\labs2\lab1\main.cpp(308): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\teeja\dropbox\prog\cpp\labs2\lab1\main.cpp(308): error C2065: 'nop': undeclared identifier
+c:\users\teeja\dropbox\prog\cpp\labs2\lab1\main.cpp(309): error C2143: syntax error: missing ';' before '}'
+c:\users\teeja\dropbox\prog\cpp\labs2\lab1\main.cpp(349): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\teeja\dropbox\prog\cpp\labs2\lab1\main.cpp(349): error C2065: 'nop': undeclared identifier
+c:\users\teeja\dropbox\prog\cpp\labs2\lab1\main.cpp(350): error C2143: syntax error: missing ';' before '}'
+c:\users\teeja\dropbox\prog\cpp\labs2\lab1\main.cpp(413): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\teeja\dropbox\prog\cpp\labs2\lab1\main.cpp(417): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\teeja\dropbox\prog\cpp\labs2\lab1\main.cpp(417): error C2065: 'nop': undeclared identifier
+c:\users\teeja\dropbox\prog\cpp\labs2\lab1\main.cpp(418): error C2143: syntax error: missing ';' before '}'
